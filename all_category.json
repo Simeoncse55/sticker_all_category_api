@@ -1,0 +1,191 @@
+[
+    {
+        "identifier": 1,
+        "name": "New Year",
+        "tray_image_file": "1719826498969.webp",
+        "sticker_packs": "1,2",
+        "pack_count": 2,
+        "publisher": "skyraan",
+        "publisher_email": "mailto:skyraan@skyraan.com",
+        "publisher_website": "skyraan.com",
+        "privacy_policy_website": "skyraan.com",
+        "license_agreement_website": "skyraan.com",
+        "image_data_version": "1",
+        "sticker_pack": [
+            {
+                "id": 2,
+                "name": "new year",
+                "type": "normal",
+                "count": 3,
+                "stickers": [
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198265311713.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198265311730.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198265311731.webp"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "name": "jesus",
+                "type": "normal",
+                "count": 4,
+                "stickers": [
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198263545931.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198263545958.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198263545951.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198263545996.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "identifier": 2,
+        "name": "Profiles",
+        "tray_image_file": "1719826652053.webp",
+        "sticker_packs": "3,4",
+        "pack_count": 1,
+        "publisher": "skyraan",
+        "publisher_email": "mailto:skyraan@skyraan.com",
+        "publisher_website": "skyraan.com",
+        "privacy_policy_website": "skyraan.com",
+        "license_agreement_website": "skyraan.com",
+        "image_data_version": "1",
+        "sticker_pack": [
+            {
+                "id": 4,
+                "name": "cats",
+                "type": "animated",
+                "count": 3,
+                "stickers": [
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198269588532.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198269588554.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198269588585.webp"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Social",
+                "type": "normal",
+                "count": 4,
+                "stickers": [
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198265771637.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198265772062.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198265773301.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198417728024.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "identifier": 4,
+        "name": "cats",
+        "tray_image_file": "1719840245456.webp",
+        "sticker_packs": "4,5",
+        "pack_count": 0,
+        "publisher": "skyraan",
+        "publisher_email": "mailto:skyraan@skyraan.com",
+        "publisher_website": "skyraan.com",
+        "privacy_policy_website": "skyraan.com",
+        "license_agreement_website": "skyraan.com",
+        "image_data_version": "1",
+        "sticker_pack": [
+            {
+                "id": 5,
+                "name": "cats",
+                "type": "normal",
+                "count": 15,
+                "stickers": [
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198410855274.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198410855295.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198410855335.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198410855377.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198410855384.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198410855414.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198410855421.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198410855432.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198410855441.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198410855485.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198410855567.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198410855584.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198410855596.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198410855656.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198411886257.webp"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "cats",
+                "type": "animated",
+                "count": 3,
+                "stickers": [
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198269588532.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198269588554.webp"
+                    },
+                    {
+                        "image_file": "http://localhost:3001/public/stickers/17198269588585.webp"
+                    }
+                ]
+            }
+        ]
+    }
+]
